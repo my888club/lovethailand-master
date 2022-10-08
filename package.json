@@ -1,0 +1,15 @@
+{
+  "name": "lovethailand",
+  "theme": "syntax",
+  "version": "0.3.1",
+  "description": "รักเธอนะ ฉันทำสำเร็จจนได้",
+  "keywords": [
+    "รักเธอประเทศไทย",
+    "ทดสอบ ภาษาไทย"
+  ],
+  "repository": "https://github.com/my888club/lovethailand",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
